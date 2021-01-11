@@ -15,7 +15,7 @@ public class Main {
 
 
         System.out.println("Массив слов: ");
-        Collections.sort(setOfWords);                                       // сортировка по алфавиту
+        Collections.sort(setOfWords);                                       // Сортировка по алфавиту
         System.out.println(setOfWords.toString() + "\n");
 
         System.out.println("Уникальные слова: ");

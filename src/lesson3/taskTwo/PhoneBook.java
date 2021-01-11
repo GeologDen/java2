@@ -19,6 +19,6 @@ public class PhoneBook {
     }
 
     public void findAndPrint(String name) {
-        System.out.println("Имя: " + name + "\nТел.номер: " + phoneBook.getOrDefault(name, new HashSet<>()) + "\n");
+        System.out.println("Имя: " + name + "\nТел. номер: " + phoneBook.getOrDefault(name, new HashSet<>()) + "\n");
     }
 }

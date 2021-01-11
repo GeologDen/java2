@@ -8,7 +8,7 @@ public class Main {
         book.addContact("Гендальф", "+14562895674");
         book.addContact("Фродо", "+85895214623");
         book.addContact("Гимли", "+85418965245");
-        book.addContact("Гимли", "+765651321564");
+        book.addContact("Гимли", "+76565132564");
         book.addContact("Леголас", "+15623589745");
         book.addContact("Арагорн", "+85265477899");
         book.addContact("Арагорн", "+8777777777777");
